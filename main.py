@@ -9,7 +9,7 @@ option = webdriver.ChromeOptions()
 option.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=option)
 
-TWITTER_EMAIL = "hemakavan15@gmail.com"
+TWITTER_EMAIL = "sample@gmail.com"
 TWITTER_PASSWORD = "samplexyz"
 
 
